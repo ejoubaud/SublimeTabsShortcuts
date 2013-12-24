@@ -7,6 +7,9 @@ Adds the following keyboard shortcuts to Sublime Text:
 
 They're also made available in the Command Palette.
 
+![tabs_shortcuts](https://f.cloud.github.com/assets/1530203/1804284/2a60983c-6c45-11e3-894f-b83d18b0b9ab.png)
+
+
 Of course, the shortcuts are overridable (`Preferences > Packages Settings > Key Bindings - User` or `TabShortcuts: Key Bindings` in the command palette).
 
 ## Installation ##
