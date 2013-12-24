@@ -10,13 +10,13 @@ Adds the tabs controls already available on right-click in the `Command Palette`
 
 Of course, the shortcuts are overridable (`Preferences > Packages Settings > TabsShortcuts > Key Bindings - User` or `TabsShortcuts: Key Bindings` in the Command Palette).
 
-## Installation ##
+## Installation
 
-### With Package Control ###
+### With Package Control
 
 Coming soon...
 
-### Without Package Control ###
+### Without Package Control
 
 Clone (or download and unzip) this into your `Packages` directory (`Browse Packages` in Sublime's Command Palette).
 
