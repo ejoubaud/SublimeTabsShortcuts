@@ -1,0 +1,58 @@
+[
+	{
+		"caption": "TabsShortcuts: Close Other Tabs",
+		"command": "close_others"
+	},
+	{
+		"caption": "TabsShortcuts: Close Tabs to the Right",
+		"command": "close_to_right"
+	},
+	{
+		"command": "open_file",
+		"args": {
+			"file": "${packages}/TabsShortcuts/Default (OSX).sublime-keymap",
+			"platform": "OSX"
+		},
+		"caption": "TabsShortcuts: Key Bindings – Default"
+	},
+	{
+		"command": "open_file",
+		"args": {
+			"file": "${packages}/TabsShortcuts/Default (Linux).sublime-keymap",
+			"platform": "Linux"
+		},
+		"caption": "TabsShortcuts: Key Bindings – Default"
+	},
+	{
+		"command": "open_file",
+		"args": {
+			"file": "${packages}/TabsShortcuts/Default (Windows).sublime-keymap",
+			"platform": "Windows"
+		},
+		"caption": "TabsShortcuts: Key Bindings – Default"
+	},
+	{
+		"command": "open_file",
+		"args": {
+			"file": "${packages}/User/Default (OSX).sublime-keymap",
+			"platform": "OSX"
+		},
+		"caption": "TabsShortcuts: Key Bindings – User"
+	},
+	{
+		"command": "open_file",
+		"args": {
+			"file": "${packages}/User/Default (Linux).sublime-keymap",
+			"platform": "Linux"
+		},
+		"caption": "TabsShortcuts: Key Bindings – User"
+	},
+	{
+		"command": "open_file",
+		"args": {
+			"file": "${packages}/User/Default (Windows).sublime-keymap",
+			"platform": "Windows"
+		},
+		"caption": "TabsShortcuts: Key Bindings – User"
+	}
+]

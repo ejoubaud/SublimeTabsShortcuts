@@ -1,0 +1,10 @@
+[
+    {
+        "keys": ["super+shift+w"],
+        "command": "close_others"
+    },
+    {
+        "keys": ["super+alt+w"],
+        "command": "close_to_right"
+    }
+]
