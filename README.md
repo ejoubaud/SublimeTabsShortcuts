@@ -28,4 +28,4 @@ So far this has only been tested on Sublime 3 for Mac, but it should also work f
 
 ## Thanks
 
-The Python snippets are from that [StackOverflow](http://stackoverflow.com/questions/15379860/close-others-command-shortcut-in-sublime-text-2#answer-15380759) QA. Feel free to up them if you like this plugin.
+The Python snippets are from [that StackOverflow QA](http://stackoverflow.com/questions/15379860/close-others-command-shortcut-in-sublime-text-2#answer-15380759). Feel free to up them if you like this plugin.
